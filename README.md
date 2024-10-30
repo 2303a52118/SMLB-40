@@ -3,7 +3,7 @@ week-2:https://github.com/2303a52118/SMLB-40/blob/main/Assignment_2_(2)_(1).ipyn
 week-3:https://github.com/2303a52118/SMLB-40/blob/main/Assignment_3.ipynb                                                       
 week-4:https://github.com/2303a52118/SMLB-40/blob/main/Assignment_4.ipynb                                                       
 week-5:https://github.com/2303a52118/SMLB-40/blob/main/Assignment_5.ipynb                                              
-WEEk-6:https://github.com/2303a52118/SMLB-40/blob/main/Assignment_6.ipynb 
+WEEk-6:https://github.com/2303a52118/SMLB-40/blob/main/Assignment_6.ipynb                                                     
 WEEK-7:https://github.com/2303a52118/SMLB-40/blob/main/Assignment_7.ipynb                                                  
 WEEK-8:https://github.com/2303a52118/SMLB-40/blob/main/Assignment_8.ipynb                                              
 WEEK-9:https://github.com/2303a52118/SMLB-40/blob/main/Assignment_9.ipynb                                                  
